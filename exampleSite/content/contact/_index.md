@@ -6,6 +6,6 @@ description: This is meta description
 ---
 ### Get in touch!
 
-As we prepare for the launch of our platform and onboard our first clients for the beta testing phase, we welcome any and all inquiries.
+MINDWISE is currently in the production phase and ready to onboard new clients. Please email contact@mindwise.io.
 
-* **Mail: contact@mindwise.io**
+For Press/Media inquiries, please contact media@mindwise.io directly.
