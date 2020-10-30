@@ -2,7 +2,7 @@
 banner:
   title: Threat intelligence from the other side
   image: images/banner-art.svg
-  content: Mindwise provides a real-time, comprehensive, event-driven fraud prevention
+  content: MINDWISE provides a real-time, comprehensive, event-driven fraud prevention
     platform aimed at banks, merchant gateways, payment processors, and other financial
     institutions.
   button:
@@ -35,40 +35,28 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Why?
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 'Cybercrime gangs continue to organize sophisticated operations to steal
+      vast amounts of data (both in-person and online) before selling it to thriving
+      underground marketplaces and communities. They are skilled, well-armed, and
+      well prepared. Shouldn’t you be too?
+
+'
     button:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Our Mission
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
-    images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 'We work to prevent fraud, so you don’t have to. Our system detects thousands
+      of consumer’s credit card information that has been made available for purchase
+      on illicit websites. Mindwise provides a unique, proactive solution to card-related
+      fraud worldwide, saving you time, money, and resources. '
     button:
       enable: true
       label: Check it out
@@ -86,7 +74,7 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
