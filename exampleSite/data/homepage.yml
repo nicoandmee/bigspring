@@ -20,18 +20,21 @@ feature:
     icon: ti-package
     content: We notify clients immediately if customer data is exposed and provide
       mitigation strategies.
-  - name: 24h Service
+  - name: Continous Monitoring
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+    content: Our continuous monitoring of the deep/dark web ensures your sensitive
+      data is protected at all times.
+  - name: Real Value
     icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
+    content: Our system allows you to outsmart bad actors and prevent real losses.
+  - name: Personal Service
     icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+    content: Our team is dedicated to ensure your confidential information is protected
+      all times.
+  - name: Secure API
     icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: 'Our API allows clients to seamlessly integrate with our real-time intelligence
+      feed. '
 service:
   enable: true
   service_item:
@@ -81,8 +84,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Get in touch with our team.
   button:
     enable: true
     label: Contact Us
