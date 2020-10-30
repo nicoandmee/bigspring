@@ -2,9 +2,8 @@
 banner:
   title: Threat intelligence from the other side
   image: images/banner-art.svg
-  content: MINDWISE provides a real-time, comprehensive, event-driven fraud prevention
-    platform aimed at banks, merchant gateways, payment processors, and other financial
-    institutions.
+  content: MINDWISE provides a comprehensive, preventative continuous monitoring solution
+    with active software implementations for fraud-prevention in the financial sphere.
   button:
     enable: true
     label: Contact
